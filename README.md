@@ -3,8 +3,7 @@ My name is Matthew and I am a student in the GIT Full Stack Web Development prog
 I love coding because I love computers, problem solving, and creating. I feel Full Stack development is all of those things in one, and I can really scratch all of the itches in my brain at once with this program  
 I love hanging out with my daughter and wife, playing video games, watching movies/tv/anime, and reading!  
   
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
-https://www.linkedin.com/in/matthewjea/
+[![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})](https://www.linkedin.com/in/matthewjea/)
 
   
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=astroactual&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
