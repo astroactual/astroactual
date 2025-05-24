@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>  
 </div>
   ---
-
+### :man_technologist: About Me :
 
 
 My name is Matthew and I am a student in the GIT Full Stack Web Development program at ASU. I have some coding experience in minor projects throughout the years, as well as a few coding classes already under my belt. I hope to land a development/engineering job after this program, and hope to further my career and provide for my family.  
