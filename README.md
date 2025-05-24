@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://giffiles.alphacoders.com/190/190440.gif"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmplNW82YW1sbHpyenZpcXN4aHN3emU1dmhvbHBvaG8zYzR5Z29oMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4dsdIExLHeiPFm/giphy.gif" width="300px"/>
     <div id="badges">
     <a href="https://www.linkedin.com/in/matthewjea/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,21 +16,27 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>  
+  <img src="https://giffiles.alphacoders.com/190/190440.gif"/>  
 </div>
-  ---
-### :man_technologist: About Me :
+---
 
+### 👨‍💻 About Me : 
 
 My name is Matthew and I am a student in the GIT Full Stack Web Development program at ASU. I have some coding experience in minor projects throughout the years, as well as a few coding classes already under my belt. I hope to land a development/engineering job after this program, and hope to further my career and provide for my family.  
 
 I love coding because I love computers, problem solving, and creating. I feel Full Stack development is all of those things in one, and I can really scratch all of the itches in my brain at once with this program  
 
 I love hanging out with my daughter and wife, playing video games, watching movies/tv/anime, and reading!  
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthewjea/) [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://buymeacoffee.com/astroactual)
 
-  
-[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=astroactual&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 🧰 Languages/Tools : 
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  title="python" alt="python" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="java" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="html" alt="html" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="ps" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="ai" width="50" height="50"/>
+</div>
 
 
