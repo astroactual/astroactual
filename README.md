@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <div class="tenor-gif-embed" data-postid="840604845154181401" data-share-method="host" data-aspect-ratio="1.70548" data-width="100%"><a href="https://tenor.com/view/night-gif-840604845154181401">Night GIF</a>from <a href="https://tenor.com/search/night-gifs">Night GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif"/>
     <div id="badges">
     <a href="https://www.linkedin.com/in/matthewjea/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
