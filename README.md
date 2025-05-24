@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif"/>
+<img src="https://github.com/user-attachments/assets/d276203c-0f3e-4f0e-9736-332e115ca3e2"/>
     <div id="badges">
     <a href="https://www.linkedin.com/in/matthewjea/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
