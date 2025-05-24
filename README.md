@@ -1,4 +1,29 @@
-## Hello!  
+<div id="header" align="center">
+  <img src="https://i.gifer.com/BHFO.gif" width="100"/>
+    <div id="badges">
+    <a href="https://www.linkedin.com/in/matthewjea/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://buymeacoffee.com/astroactual)
+    </a>
+    <a href="https://mobile.twitter.com/domcroci">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=dcroci&style=flat-square&color=blue" alt=""/>
+  <h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>  
+</div>
+  ---
+
+
+
 My name is Matthew and I am a student in the GIT Full Stack Web Development program at ASU. I have some coding experience in minor projects throughout the years, as well as a few coding classes already under my belt. I hope to land a development/engineering job after this program, and hope to further my career and provide for my family.  
 
 I love coding because I love computers, problem solving, and creating. I feel Full Stack development is all of those things in one, and I can really scratch all of the itches in my brain at once with this program  
