@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/BHFO.gif" width="100"/>
+  <img src="https://i.gifer.com/BHFO.gif"/>
     <div id="badges">
     <a href="https://www.linkedin.com/in/matthewjea/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
