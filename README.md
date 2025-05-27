@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <img src="https://i.gifer.com/3IsP.gif" alt="Person On Computer GIF" width="150px"/>
     <div id="badges">
-    <a href="https://www.linkedin.com/in/matthewjea/">
+    <a href="https://www.linkedin.com/in/matthewjea/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.buymeacoffee.com/astroactual" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="100" ></a>
