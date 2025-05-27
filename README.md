@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/matthewjea/" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.buymeacoffee.com/astroactual" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="100" ></a>
+    <a href="https://www.buymeacoffee.com/astroactual" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="50" ></a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=dcroci&style=flat-square&color=blue" alt=""/>
   <h1>
