@@ -2,11 +2,13 @@
 <img src="https://i.gifer.com/3IsP.gif" alt="Person On Computer GIF" width="150px"/>
     <div id="badges">
     <a href="https://www.linkedin.com/in/matthewjea/" target="_blank">
-      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" alt="LinkedIn Badge" width="100">
-    </a>
-    <a href="https://www.buymeacoffee.com/astroactual" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="95" ></a>
+      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" alt="LinkedIn Badge" width="100"></a>
+    <a href="https://www.buymeacoffee.com/astroactual" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="95" ></a>
+    <a href="https://codepen.io/astroactual" target="_blank">
+        <img src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black" alt="Codepen Badge" width="100" ></a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=dcroci&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=dcroci&style=flat-square&color=blue" alt="profile-views"/>
   <h1>
   Hello There!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="30px"/>
