@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <img src="https://i.gifer.com/3IsP.gif" alt="Person On Computer GIF" width="150px"/>
-    <div id="badges">
+    <div id="badges" target="_blank">
     <a href="https://www.linkedin.com/in/matthewjea/" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" alt="LinkedIn Badge" width="100"></a>
     <a href="https://www.buymeacoffee.com/astroactual" target="_blank">
