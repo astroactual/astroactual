@@ -37,6 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"  title="go" alt="go" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="ps" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="ai" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" title="premier pro" alt="premier pro" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
 </div>
 
 
