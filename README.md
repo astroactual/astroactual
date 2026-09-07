@@ -53,6 +53,8 @@
 ### ✔️ My Stats :
 | <img src="https://lottie.host/129ef044-d25e-49ac-bb49-78622b58593c/QyO9rkb7S4.lottie" alt="Molecules dancing" width="200px"/> | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=astroactual&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) |
 |:-------|-----|
- 
+
+
+ ![https://lottie.host/129ef044-d25e-49ac-bb49-78622b58593c/QyO9rkb7S4.lottie](animation.gif)
 <br><br>&nbsp;&nbsp;
 
