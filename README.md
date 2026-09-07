@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" title="premier pro" alt="premier pro" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
 </div>
-<br><br>&nbsp;&nbsp;
+
 ---
 
 ### :briefcase: My Projects :
