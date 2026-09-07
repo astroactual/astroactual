@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://i.gifer.com/3IsP.gif" alt="Person On Computer GIF" width="150px"/>
+<img src="[https://i.gifer.com/3IsP.gif](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)" alt="Person On Computer GIF" width="150px"/>
     <div id="badges">
     <a href="https://www.linkedin.com/in/matthewjea/" {target="_blank"} rel="noreferrer noopener">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" alt="LinkedIn Badge" height="30"></a>
