@@ -41,13 +41,6 @@
     
 </div>
 
-
----
-### ✔️ My Stats :
-
-<img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg4MTIyNjMsIm5iZiI6MTc4ODgxMTk2MywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTA3VDIwMTI0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmNDRhZjM4MjAxMzQ4ODlkZjA2NWU4M2U1NjU4MzA2MjhlZjJhMTkwYmE1NmEyMzI2Nzk4MzgxOTZlZjdhZDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.efYnbhSo-n3nIQkGfjKO-czW-6lxdxAjySYseiUj7QA" alt="Molecules dancing" width="200px"/> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=astroactual&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-<br><br>&nbsp;&nbsp;
-
 ### :briefcase: My Projects :
 
 [![Stillness Head Spa](https://svg.bookmark.style/api?url=https://github.com/astroactual/stillness-headspa-WIP&mode=dark)](https://github.com/astroactual/stillness-headspa-WIP)
@@ -55,3 +48,10 @@
 [![Audio Visualizer](https://svg.bookmark.style/api?url=https://github.com/astroactual/Audio-Visualizer&mode=dark)](https://github.com/astroactual/Audio-Visualizer)
 
 [![Field and Feast](https://svg.bookmark.style/api?url=https://github.com/astroactual/fieldandfeast&mode=dark)](https://github.com/astroactual/fieldandfeast)
+
+---
+### ✔️ My Stats :
+
+<img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg4MTIyNjMsIm5iZiI6MTc4ODgxMTk2MywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTA3VDIwMTI0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmNDRhZjM4MjAxMzQ4ODlkZjA2NWU4M2U1NjU4MzA2MjhlZjJhMTkwYmE1NmEyMzI2Nzk4MzgxOTZlZjdhZDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.efYnbhSo-n3nIQkGfjKO-czW-6lxdxAjySYseiUj7QA" alt="Molecules dancing" width="200px"/> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=astroactual&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<br><br>&nbsp;&nbsp;
+
