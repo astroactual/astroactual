@@ -41,13 +41,13 @@
     
 </div>
 
+---
+
 ### :briefcase: My Projects :
 
-[![Stillness Head Spa](https://svg.bookmark.style/api?url=https://github.com/astroactual/stillness-headspa-WIP&mode=dark)](https://github.com/astroactual/stillness-headspa-WIP)
+| [![Stillness Head Spa](https://svg.bookmark.style/api?url=https://github.com/astroactual/stillness-headspa-WIP&mode=dark)](https://github.com/astroactual/stillness-headspa-WIP) | [![Audio Visualizer](https://svg.bookmark.style/api?url=https://github.com/astroactual/Audio-Visualizer&mode=dark)](https://github.com/astroactual/Audio-Visualizer) | [![Field and Feast](https://svg.bookmark.style/api?url=https://github.com/astroactual/fieldandfeast&mode=dark)](https://github.com/astroactual/fieldandfeast) |
+| -------- | -------- | -------- |
 
-[![Audio Visualizer](https://svg.bookmark.style/api?url=https://github.com/astroactual/Audio-Visualizer&mode=dark)](https://github.com/astroactual/Audio-Visualizer)
-
-[![Field and Feast](https://svg.bookmark.style/api?url=https://github.com/astroactual/fieldandfeast&mode=dark)](https://github.com/astroactual/fieldandfeast)
 
 ---
 ### ✔️ My Stats :
