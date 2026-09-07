@@ -54,4 +54,4 @@
 
 [![Audio Visualizer](https://svg.bookmark.style/api?url=https://github.com/astroactual/Audio-Visualizer&mode=dark&style=horizontal)](https://github.com/astroactual/Audio-Visualizer)
 
-[![Field and Feast](https://svg.bookmark.style/api?url=https://github.com/astroactual/fieldandfeast&mode=dark&style=horizontal)](https://github.com/astroactual/fieldandfeast)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/astroactual/fieldandfeast)](https://github.com/astroactual/fieldandfeast)
