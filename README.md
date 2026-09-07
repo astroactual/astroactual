@@ -50,8 +50,8 @@
 
 ### :briefcase: My Projects :
 
-[![Stillness Head Spa](https://svg.bookmark.style/api?url=https://github.com/astroactual/stillness-headspa-WIP&mode=dark&style=horizontal)](https://github.com/astroactual/stillness-headspa-WIP)
+[![Stillness Head Spa](https://svg.bookmark.style/api?url=https://github.com/astroactual/stillness-headspa-WIP&mode=dark)](https://github.com/astroactual/stillness-headspa-WIP)
 
-[![Audio Visualizer](https://svg.bookmark.style/api?url=https://github.com/astroactual/Audio-Visualizer&mode=dark&style=horizontal)](https://github.com/astroactual/Audio-Visualizer)
+[![Audio Visualizer](https://svg.bookmark.style/api?url=https://github.com/astroactual/Audio-Visualizer&mode=dark)](https://github.com/astroactual/Audio-Visualizer)
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/astroactual/fieldandfeast&mode=dark)](https://github.com/astroactual/fieldandfeast)
+[![Field and Feast](https://svg.bookmark.style/api?url=https://github.com/astroactual/fieldandfeast&mode=dark)](https://github.com/astroactual/fieldandfeast)
