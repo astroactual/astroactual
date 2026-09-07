@@ -49,3 +49,8 @@
 <br><br>&nbsp;&nbsp; |
 |:-------|-----|
 
+| Category A | Details A | | Category B | Details B |
+| :--- | :--- | :---: | :--- | :--- |
+| **Item A1** | Description here | | **Item B1** | Description here |
+| **Item A2** | Description here | | **Item B2** | Description here |
+
