@@ -1,6 +1,6 @@
 <div id="header" align="center">
- 
  <img src="https://github.com/astroactual/astroactual/blob/main/Horizontal%20RGB.png?raw=true" height="200px" alt="Matthew Adcock"/>
+ --
     <div id="badges">
     <a href="https://www.linkedin.com/in/matthewjea/" {target="_blank"} rel="noreferrer noopener">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" alt="LinkedIn Badge" height="30"></a>
@@ -8,8 +8,8 @@
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" height="30" ></a>
     <a href="https://codepen.io/astroactual" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black" alt="Codepen Badge" height="30" ></a>
+        <img src="https://komarev.com/ghpvc/?username=dcroci&style=flat-square&color=blue" alt="profile-views"/>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=dcroci&style=flat-square&color=blue" alt="profile-views"/>
   <h1>
   Hello There!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="30px"/>
