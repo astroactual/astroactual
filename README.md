@@ -7,8 +7,10 @@
      &nbsp;
     <a href="https://www.buymeacoffee.com/astroactual" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" height="30" ></a>
+     &nbsp;
     <a href="https://codepen.io/astroactual" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black" alt="Codepen Badge" height="30" ></a>
+     &nbsp;
         <img src="https://komarev.com/ghpvc/?username=dcroci&style=flat-square&color=blue" alt="profile-views"/>
   </div>
   <h1>
