@@ -1,6 +1,6 @@
 <div id="header" align="center">
  <img src="https://github.com/astroactual/astroactual/blob/main/Horizontal%20RGB.png?raw=true" height="200px" alt="Matthew Adcock"/>
- --
+ ---
     <div id="badges">
     <a href="https://www.linkedin.com/in/matthewjea/" {target="_blank"} rel="noreferrer noopener">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" alt="LinkedIn Badge" height="30"></a>
