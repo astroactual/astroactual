@@ -1,6 +1,6 @@
 <div id="header" align="center">
  
- | <img src="https://github.com/astroactual/astroactual/blob/main/Horizontal%20RGB.png?raw=true" alt="Matthew Adcock";"/> | 
+ | <img src="https://github.com/astroactual/astroactual/blob/main/Horizontal%20RGB.png?raw=true" alt="Matthew Adcock"/> | 
 | :--- |
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Person On Computer GIF" width="400px" style="border-radius: 15px;"/>
     <div id="badges">
