@@ -1,8 +1,6 @@
 <div id="header" align="center">
  
- | <img src="https://github.com/astroactual/astroactual/blob/main/Horizontal%20RGB.png?raw=true" height="200px" alt="Matthew Adcock"/> | 
-| :--- |
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Person On Computer GIF" width="400px" style="border-radius: 15px;"/>
+ <img src="https://github.com/astroactual/astroactual/blob/main/Horizontal%20RGB.png?raw=true" height="200px" alt="Matthew Adcock"/>
     <div id="badges">
     <a href="https://www.linkedin.com/in/matthewjea/" {target="_blank"} rel="noreferrer noopener">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" alt="LinkedIn Badge" height="30"></a>
