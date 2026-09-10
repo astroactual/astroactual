@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img width="1224" height="792" alt="image" src="https://github.com/user-attachments/assets/de413be5-3b1b-4028-a997-23783cc2d6f3" alt="Matthew Adcock" width="400px" style="border-radius: 15px;"/>
+ <img src="https://github.com/astroactual/astroactual/blob/main/Horizontal%20RGB.png?raw=true" alt="Matthew Adcock" width="400px" style="border-radius: 15px;"/>
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Person On Computer GIF" width="400px" style="border-radius: 15px;"/>
     <div id="badges">
     <a href="https://www.linkedin.com/in/matthewjea/" {target="_blank"} rel="noreferrer noopener">
